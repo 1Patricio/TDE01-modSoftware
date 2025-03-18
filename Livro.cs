@@ -9,9 +9,9 @@ public class Livro{
         this.anoPublicacao = anoPublicacao;
     }
 
-    public void exibirInformações(){
-        console.WriteLine("Titulo: " + titulo);
-        console.WriteLine("Livro: " + livro);
-        console.WriteLine("Ano de Publicação: " + anoPublicacao);
+    public void exibirInformacoes(){
+        Console.WriteLine("Titulo: " + titulo);
+        Console.WriteLine("Livro: " + livro);
+        Console.WriteLine("Ano de Publicação: " + anoPublicacao);
     }
 }

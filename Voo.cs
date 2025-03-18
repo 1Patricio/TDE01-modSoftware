@@ -14,9 +14,10 @@ public Voo(string numeroVoo, string companhia, string origem, string destino, Da
 }
 
 public void exibirInformacoes(){
-    console.WriteLine("Numero do Voo: " + numeroVoo);
-    console.WriteLine("Companhia: " + companhia);
-    console.WriteLine("Origem: " + origem);
-    console.WriteLine("Destino: " + destino);
-    console.WriteLine("Hora de Saída: " + HoraSaida);
+    Console.WriteLine("Numero do Voo: " + numeroVoo);
+    Console.WriteLine("Companhia: " + companhia);
+    Console.WriteLine("Origem: " + origem);
+    Console.WriteLine("Destino: " + destino);
+    Console.WriteLine("Hora de Saída: " + HoraSaida);
+}
 }

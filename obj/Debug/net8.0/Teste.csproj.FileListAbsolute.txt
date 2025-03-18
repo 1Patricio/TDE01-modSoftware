@@ -2,3 +2,14 @@ C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\
 C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
 C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
 C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\Teste\obj\Debug\net8.0\ref\Teste.dll
