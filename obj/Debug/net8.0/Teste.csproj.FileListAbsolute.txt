@@ -1,0 +1,4 @@
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Ulbra\4-sem-25-1\modelagemSoftware\TDE01-180325\teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
